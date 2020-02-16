@@ -1,3 +1,6 @@
+
+https://datatofish.com/how-to-connect-python-to-sql-server-using-pyodbc/
+
 C:\Users\skumar>pip install pyodbc
 Collecting pyodbc
   Downloading pyodbc-4.0.30-cp38-cp38-win32.whl (58 kB)
